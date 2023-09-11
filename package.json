@@ -1,0 +1,14 @@
+{
+  "name": "mongo-dnc",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Rogério Júnior",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^7.5.0"
+  }
+}
